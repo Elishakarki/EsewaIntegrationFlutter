@@ -19,7 +19,7 @@ import 'package:webview_flutter_wkwebview/webview_flutter_wkwebview.dart';
 void main() => runApp(const MaterialApp(home: WebViewExample()));
 
 const String kNavigationExamplePage = '''
-<!DOCTYPE html><html>
+// <!DOCTYPE html><html>
 <head><title>Navigation Delegate Example</title></head>
 <body>
 <p>
